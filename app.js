@@ -52,3 +52,18 @@ buttonN2.addEventListener('click',second)
 buttonN3.addEventListener('click',third)
 buttonN4.addEventListener('click',fourth)
     
+                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
