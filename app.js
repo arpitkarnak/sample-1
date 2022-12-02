@@ -20,7 +20,7 @@ function first(){
     
 
 }
-function second(){s
+function second(){
     var value1 = Number(inpuT1.value);
     var value2 = Number(inpuT2.value);
 
